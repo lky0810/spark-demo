@@ -6,7 +6,7 @@
 ## 如何使用本项目？
 在 bash 环境中运行
 ```bash
-https://github.com/lky0810/spark-demo.git dir
+git clone  https://github.com/lky0810/spark-demo.git dir
 ```
 即可在当前目录下创建名称为 dir 的项目文件夹。你可以将 `dir` 替换成你自己的项目文件夹名。你可以随后用 IDEA 或者
 其他常用的编程工具打开这个文件夹开始编写程序。

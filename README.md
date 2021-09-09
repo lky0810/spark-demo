@@ -1,4 +1,4 @@
-# spark-skel 项目
+# spark-demo 项目
 
 这是一个 spark 骨架项目，目的是为了方便大家创建一个使用 sbt 管理的、编程语言为 scala 的 spark 项目。
 
@@ -6,9 +6,9 @@
 ## 如何使用本项目？
 在 bash 环境中运行
 ```bash
-https://github.com/lky0810/spark-demo.git testskel
+https://github.com/lky0810/spark-demo.git dir
 ```
-即可在当前目录下创建名称为 testskel 的项目文件夹。你可以将 `testskel` 替换成你自己的项目文件夹名。你可以随后用 IDEA 或者
+即可在当前目录下创建名称为 dir 的项目文件夹。你可以将 `dir` 替换成你自己的项目文件夹名。你可以随后用 IDEA 或者
 其他常用的编程工具打开这个文件夹开始编写程序。
 
 
